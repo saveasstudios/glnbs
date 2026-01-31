@@ -28,3 +28,14 @@
   "id": "1",
   "description": "Greenlake Naturals is an organic cosmetic shop offering safe, natural products for healthy skin, hair, beauty."
 }
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "saveasstudios.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "saveasstudios.github",
+  "start_url": "https://saveasstudios.github.io/glnbs/",
+  "theme_color": "#0f172a"
+}
